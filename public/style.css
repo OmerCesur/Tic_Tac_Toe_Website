@@ -1,0 +1,65 @@
+body {
+    background-color: #10A19D;
+}
+
+.label {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    color: #540375;
+    transition: all 0.2s;
+}
+
+.label:hover{
+    font-size: 68px;
+    transition: all 0.2s;
+}
+
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.gameButton {
+    width: 128px;
+    height: 128px;
+    border-radius: 30px;
+    margin: 10px;
+    font-size: 64px;
+    border: none;
+    color: #540375;
+    background-color: #0e8b87;
+    transition: all 0.2s;
+}
+
+.gameButton:hover {
+    color: #10A19D;
+    background-color: #540375;
+    transition: all 0.2s;
+}
+
+.restart {
+    color: #10A19D;
+    background-color: #540375;
+    border: none;
+    border-radius: 15px;
+    padding: 15px 20px;
+    transition: all 0.2s;
+}
+
+.restart:hover {
+    color: #540375;
+    background-color: #0e8b87;
+    border: 2px solid #540375;
+    font-size: 15px;
+    transition: all 0.2s;
+}
+
+.restartArea {
+    text-align: center;
+}
