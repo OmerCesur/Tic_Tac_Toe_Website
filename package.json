@@ -1,6 +1,6 @@
 {
-  "homepage": "https://omercesur.github.io/tic-tac-toe",
-  "name": "tic-tac-toe",
+  "homepage": "https://omercesur.github.io/tic_tac_toe_website",
+  "name": "tic_tac_toe_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
